@@ -18,9 +18,11 @@
 
 <br />
 
----
 
-<img align="left" alt="ThusharaX's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ThusharaX&show_icons=true&hide_border=true" />
+![ThusharaX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThusharaX&show_icons=true&theme=none&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThusharaX&layout=compact&theme=none&hide_border=false)
+
 
 [twitter]: https://twitter.com/TTiwanka
 [instagram]: https://instagram.com/thushara_thiwanka
