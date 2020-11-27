@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thushara Thiwanka</h1>
-<h4 align="center">I'm a Student and Developer !!</h4>
+<h3 align="center">I'm a Student and Developer !!</h3>
 
 </br>
 
