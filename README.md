@@ -1,3 +1,7 @@
+﻿<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ThusharaX/ThusharaX/master/name.svg" alt="Marton Lederer" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Thushara Thiwanka</h1>
 <h3 align="center">Student and Developer</h3>
 
