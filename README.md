@@ -7,6 +7,8 @@
 
 ![](https://www.codewars.com/users/ThusharaX/badges/large)
 
+[![Thushara Thiwanka's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/thusharax)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/TThiwanka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTThiwanka&screen_name=TThiwanka)
 
 ![](https://komarev.com/ghpvc/?username=ThusharaX&style=flat&color=brightgreen)
