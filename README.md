@@ -11,7 +11,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thushara Thiwanka's DEV Community Profile" height="30" width="30">
 </a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TThiwanka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTThiwanka&screen_name=TThiwanka)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Thushara_X?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FThushara_X&screen_name=Thushara_X)
 
 ![](https://komarev.com/ghpvc/?username=ThusharaX&style=flat&color=brightgreen)
 
