@@ -19,7 +19,6 @@ I'm Thushara Thiwanka, a 22 years old Software Developer from Sri Lanka.
 - 👥 Core team member at [@Binary-Matter](https://github.com/@Binary-Matter) and [@SLIIT-2020-June](https://github.com/@SLIIT-2020-June)
 
 ## Skills
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 - 👨‍💻 Python, C, C++, Java, JavaScript
 - ⚙️ React, Django, Flask
 - 👁️ CSS
