@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/ThusharaX/ThusharaX/master/name.svg" alt="Marton Lederer" />
 </h1>
 
-## Hey! 👋
-I'm Thushara Thiwanka, a 22 years old Software Developer from Sri Lanka.
+## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineer from Sri Lanka.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
