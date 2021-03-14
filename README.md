@@ -37,4 +37,76 @@ I'm Thushara Thiwanka, a 22 years old Software Developer from Sri Lanka.
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 62 Contributions in the Year 2021
+ > 
+> 📦 9.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+🌆 Daytime    5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+🌃 Evening    10 commits     ██████████░░░░░░░░░░░░░░░   41.67% 
+🌙 Night      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Friday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Saturday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Sunday       8 commits      ████████░░░░░░░░░░░░░░░░░   33.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ThusharaX/ThusharaX/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
