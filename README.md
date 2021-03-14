@@ -31,11 +31,6 @@ I'm Thushara Thiwanka, a 22 years old Software Developer from Sri Lanka.
 - [@thushara_thiwanka](https://www.instagram.com/thushara_thiwanka/) on Instagram
 - [LuciferX#8759](./) on Discord
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thusharax&show_icons=true&locale=en" alt="thusharax" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thusharax&show_icons=true&locale=en&layout=compact" alt="thusharax" /></p>
-
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
