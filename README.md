@@ -25,7 +25,7 @@ I'm Thushara Thiwanka, a 22 years old Software Developer from Sri Lanka.
 - 💽 SQL, PostgreSQL
 
 ## Contact
-- [ThusharaX.github.io](https://ThusharaX.github.io/)
+- [ThusharaX.github.io](https://ThusharaX.github.io/) on Web
 - [@Thushara_X](https://twitter.com/Thushara_X/) on Twitter
 - [@thushara_thiwanka](https://www.instagram.com/thushara_thiwanka/) on Instagram
 - [LuciferX#8759](./) on Discord
