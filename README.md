@@ -1,42 +1,40 @@
 ﻿<h1 align="center">
   <img src="https://raw.githubusercontent.com/ThusharaX/ThusharaX/master/name.svg" alt="Marton Lederer" />
 </h1>
-<h3 align="center">Student and Developer</h3>
 
-</br>
+## Hey! 👋
+I'm Thushara Thiwanka, a 22 years old Software Developer from Sri Lanka.
 
-![](https://www.codewars.com/users/ThusharaX/badges/large)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<a href="https://dev.to/thusharax">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thushara Thiwanka's DEV Community Profile" height="30" width="30">
-</a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/Thushara_X?label=Follow)](https://twitter.com/intent/follow?screen_name=Thushara_X)
+[![Linkedin: Thushara Thiwanka](https://img.shields.io/badge/-Thushara_Thiwanaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thushara-thiwanka-0b95b614a/)](https://www.linkedin.com/in/thushara-thiwanka-0b95b614a/)
+![GitHub followers](https://img.shields.io/github/followers/ThusharaX?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://ThusharaX.github.io/)
+![](https://camo.githubusercontent.com/f1c00c1d3c0d9b8f4431c8082be05835cd7795233799bcef63c216d59cf4f6a0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d546875736861726158267374796c653d666c617426636f6c6f723d627269676874677265656e)
+![GitHub User's stars](https://img.shields.io/github/stars/ThusharaX?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Thushara_X?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FThushara_X&screen_name=Thushara_X)
+- 🧭 Founder at [@Nano-Spark](https://github.com/Nano-Spark)
 
-![](https://komarev.com/ghpvc/?username=ThusharaX&style=flat&color=brightgreen)
+- 👥 Core team member at [@Binary-Matter](https://github.com/@Binary-Matter) and [@SLIIT-2020-June](https://github.com/@SLIIT-2020-June)
 
+## Skills
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+- 👨‍💻 Python, C, C++, Java, JavaScript
+- ⚙️ React, Django, Flask
+- 👁️ CSS
+- 💽 SQL, PostgreSQL
 
-<hr style="border:0px solid gray; height:1.5px"> </hr>
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-### Connect with me:
-
-[<img align="left" alt="TTiwanka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="thushara-thiwanka-0b95b614a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="thushara_thiwanka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-</br>
+## Contact
+- [ThusharaX.github.io](https://ThusharaX.github.io/)
+- [@Thushara_X](https://twitter.com/Thushara_X/) on Twitter
+- [@thushara_thiwanka](https://www.instagram.com/thushara_thiwanka/) on Instagram
+- [LuciferX#8759](./) on Discord
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thusharax&show_icons=true&locale=en" alt="thusharax" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thusharax&show_icons=true&locale=en&layout=compact" alt="thusharax" /></p>
 
 
-
-[twitter]: https://twitter.com/TTiwanka
-[instagram]: https://instagram.com/thushara_thiwanka
-[linkedin]: https://linkedin.com/in/thushara-thiwanka-0b95b614a
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
