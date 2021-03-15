@@ -31,19 +31,19 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineer from Sr
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5943%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6889%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 79 Contributions in the Year 2021
+> 🏆 90 Contributions in the Year 2021
  > 
-> 📦 9.6 kB Used in Github's Storage 
+> 📦 11.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -90,10 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ████████████░░░░░░░░░░░░░   50.0% 
-C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Python                   4 repos             ████████████░░░░░░░░░░░░░   50.0% 
+C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
