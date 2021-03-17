@@ -16,7 +16,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineer from Sr
 
 - 🧭 Founder at [@Nano-Spark](https://github.com/Nano-Spark)
 
-- 👥 Core team member at [@Binary-Matter](https://github.com/@Binary-Matter) and [@SLIIT-2020-June](https://github.com/@SLIIT-2020-June)
+- 👥 Core team member at [@Binary-Matter](https://github.com/Binary-Matter) and [@SLIIT-2020-June](https://github.com/SLIIT-2020-June)
 
 ## Skills
 - 👨‍💻 Python, C, C++, Java, JavaScript
