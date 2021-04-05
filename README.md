@@ -60,13 +60,13 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineer from Sr
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21798%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21850%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 150 Contributions in the Year 2021
+> 🏆 151 Contributions in the Year 2021
  > 
-> 📦 15.9 kB Used in Github's Storage 
+> 📦 16.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
