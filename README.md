@@ -64,7 +64,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineer from Sr
 
 **🐱 My Github Data** 
 
-> 🏆 178 Contributions in the Year 2021
+> 🏆 192 Contributions in the Year 2021
  > 
 > 📦 22.4 kB Used in Github's Storage 
  > 
