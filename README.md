@@ -14,9 +14,10 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineer from Sr
 ![](https://camo.githubusercontent.com/f1c00c1d3c0d9b8f4431c8082be05835cd7795233799bcef63c216d59cf4f6a0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d546875736861726158267374796c653d666c617426636f6c6f723d627269676874677265656e)
 ![GitHub User's stars](https://img.shields.io/github/stars/ThusharaX?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
-- 🧭 Founder at [@Nano-Spark](https://github.com/Nano-Spark)
+<!-- - 🧭 Founder at [@Nano-Spark](https://github.com/Nano-Spark) -->
+- 🧭 Founder at [@Binary-Matter](https://github.com/Binary-Matter)
 
-- 👥 Core team member at [@Binary-Matter](https://github.com/Binary-Matter) and [@SLIIT-2020-June](https://github.com/SLIIT-2020-June)
+<!-- - 👥 Core team member at [@Binary-Matter](https://github.com/Binary-Matter) and [@SLIIT-2020-June](https://github.com/SLIIT-2020-June) -->
 
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
