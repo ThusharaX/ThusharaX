@@ -55,7 +55,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineer from Sr
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## Contact
-- [ThusharaX.github.io](https://ThusharaX.github.io/) on Web
+- [thusharathiwanka.com](https://thusharathiwanka.com/) on Web
 - [@Thushara_X](https://twitter.com/Thushara_X/) on Twitter
 - [@thushara_thiwanka](https://www.instagram.com/thushara_thiwanka/) on Instagram
 - [LuciferX#8759](./) on Discord
