@@ -15,7 +15,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineering Unde
 ![GitHub User's stars](https://img.shields.io/github/stars/ThusharaX?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
 <!-- - 🧭 Founder at [@Nano-Spark](https://github.com/Nano-Spark) -->
-- 🧭 Founder at [@Binary-Matter](https://github.com/Binary-Matter)
+- 🧭 Founder at [@BinaryMatter](https://github.com/BinaryMatter)
 
 <!-- - 👥 Core team member at [@Binary-Matter](https://github.com/Binary-Matter) and [@SLIIT-2020-June](https://github.com/SLIIT-2020-June) -->
 
