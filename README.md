@@ -71,9 +71,9 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineering Unde
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 26 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -131,5 +131,5 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2021
+ Last Updated on 25/07/2021
 <!--END_SECTION:waka-->
