@@ -67,7 +67,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 22 years old Software Engineering Unde
 
 > 🏆 835 Contributions in the Year 2021
  > 
-> 📦 244.1 kB Used in Github's Storage 
+> 📦 244.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -128,5 +128,5 @@ C++                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2021
+ Last Updated on 27/08/2021
 <!--END_SECTION:waka-->
