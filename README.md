@@ -65,13 +65,13 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,254 Contributions in the Year 2021
+> 🏆 1,255 Contributions in the Year 2021
  > 
 > 📦 371.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 40 Private Repositories  
  > 
@@ -104,13 +104,13 @@ Sunday       146 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               1 hr 39 mins        █████████████████████████   100.0%
+JavaScript               2 hrs 42 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 42 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.0%
+Windows                  2 hrs 42 mins       █████████████████████████   100.0%
 
 ```
 
@@ -127,5 +127,5 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
