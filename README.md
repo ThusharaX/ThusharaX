@@ -67,7 +67,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 
 **🐱 My GitHub Data** 
 
-> 🏆 412 Contributions in the Year 2022
+> 🏆 414 Contributions in the Year 2022
  > 
 > 📦 378.2 kB Used in GitHub's Storage 
  > 
@@ -106,8 +106,7 @@ Sunday       159 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               0 secs              ██████████████████████░░░   91.41% 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+JavaScript               0 secs              █████████████████████████   100.0% 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -132,5 +131,5 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2022 18:56:37 UTC
+ Last Updated on 13/05/2022 18:54:13 UTC
 <!--END_SECTION:waka-->
