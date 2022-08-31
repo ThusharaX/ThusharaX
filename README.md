@@ -106,13 +106,13 @@ Sunday       122 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -129,5 +129,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2022 18:57:47 UTC
+ Last Updated on 31/08/2022 19:05:27 UTC
 <!--END_SECTION:waka-->
