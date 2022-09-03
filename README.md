@@ -61,7 +61,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-660%20Thousand%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 
 > 🏆 785 Contributions in the Year 2022
  > 
-> 📦 465.0 kB Used in GitHub's Storage 
+> 📦 464.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -106,17 +106,17 @@ Sunday       122 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Git Config               14 mins             ██████████░░░░░░░░░░░░░░░   39.79% 
-JavaScript               7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.46% 
-JSON                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.12% 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+JavaScript               59 mins             █████████░░░░░░░░░░░░░░░░   39.02% 
+JSON                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.82% 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+EJS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.88%
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.0%
+Windows                  2 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -133,5 +133,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2022 18:59:54 UTC
+ Last Updated on 03/09/2022 18:56:19 UTC
 <!--END_SECTION:waka-->
