@@ -61,13 +61,13 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 808 Contributions in the Year 2022
+> 🏆 814 Contributions in the Year 2022
  > 
 > 📦 465.0 kB Used in GitHub's Storage 
  > 
@@ -106,10 +106,10 @@ Sunday       122 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 33 mins       █████████████░░░░░░░░░░░░   53.84% 
-Bash                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.75% 
+JavaScript               8 hrs 25 mins       █████████████░░░░░░░░░░░░   53.0% 
+Bash                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
+JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.83% 
 HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.46%
 
 🔥 Editors: 
@@ -133,5 +133,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2022 19:01:55 UTC
+ Last Updated on 09/09/2022 18:59:12 UTC
 <!--END_SECTION:waka-->
