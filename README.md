@@ -61,13 +61,13 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-679%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,301 Contributions in the Year 2022
+> 🏆 1,303 Contributions in the Year 2022
  > 
 > 📦 467.0 kB Used in GitHub's Storage 
  > 
@@ -77,6 +77,49 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
  > 
 > 🔑 56 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    206 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
+🌆 Daytime    390 commits    ████████░░░░░░░░░░░░░░░░░   33.88% 
+🌃 Evening    340 commits    ███████░░░░░░░░░░░░░░░░░░   29.54% 
+🌙 Night      215 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.68%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
+Tuesday      116 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
+Wednesday    160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
+Thursday     217 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.85% 
+Friday       214 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
+Saturday     166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
+Sunday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.99%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+TypeScript               8 hrs 54 mins       █████████████░░░░░░░░░░░░   55.07% 
+JavaScript               6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   39.14% 
+Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+
+🔥 Editors: 
+VS Code                  16 hrs 9 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  16 hrs 9 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,5 +133,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 18:57:56 UTC
+ Last Updated on 10/11/2022 18:57:21 UTC
 <!--END_SECTION:waka-->
