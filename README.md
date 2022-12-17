@@ -61,7 +61,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-680%20Thousand%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 
 > 🏆 1,337 Contributions in the Year 2022
  > 
-> 📦 467.2 kB Used in GitHub's Storage 
+> 📦 467.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -106,17 +106,17 @@ Sunday       137 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 35 mins       ████████████████░░░░░░░░░   65.34% 
-Bash                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
+TypeScript               9 hrs 50 mins       █████████████████░░░░░░░░   69.21% 
+Bash                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
+YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
+JavaScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18%
 
 🔥 Editors: 
-VS Code                  14 hrs 41 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 12 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  14 hrs 41 mins      █████████████████████████   100.0%
+Windows                  14 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -133,5 +133,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 18:46:14 UTC
+ Last Updated on 17/12/2022 18:47:56 UTC
 <!--END_SECTION:waka-->
