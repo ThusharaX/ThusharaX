@@ -61,7 +61,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-680%20Thousand%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Unde
 
 > 🏆 1,338 Contributions in the Year 2022
  > 
-> 📦 467.4 kB Used in GitHub's Storage 
+> 📦 467.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -106,17 +106,17 @@ Sunday       137 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               11 hrs 43 mins      █████████████████░░░░░░░░   67.75% 
-Bash                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
-Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
-YAML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
+TypeScript               17 hrs 28 mins      ██████████████████░░░░░░░   75.27% 
+Bash                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.68% 
+Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.82% 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
+JavaScript               40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
 
 🔥 Editors: 
-VS Code                  17 hrs 18 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 13 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  17 hrs 18 mins      █████████████████████████   100.0%
+Windows                  23 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
@@ -133,5 +133,5 @@ TypeScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2022 18:46:51 UTC
+ Last Updated on 21/12/2022 18:46:27 UTC
 <!--END_SECTION:waka-->
