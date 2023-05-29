@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
-I'm <strong>Thushara Thiwanka</strong>, a 23 years old Software Engineering Undergraduate from Sri Lanka.
+I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from Sri Lanka.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
