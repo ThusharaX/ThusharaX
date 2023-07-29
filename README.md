@@ -61,7 +61,7 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C043%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 
 > 📦 476.0 kB Used in GitHub's Storage 
  > 
-> 🏆 733 Contributions in the Year 2023
+> 🏆 734 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -104,17 +104,17 @@ Sunday                   1752 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               10 hrs 5 mins       ██████████████░░░░░░░░░░░   57.89 % 
-JavaScript               3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Other                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Terraform                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+TypeScript               10 hrs 5 mins       █████████████░░░░░░░░░░░░   52.28 % 
+JavaScript               5 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+Other                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,5 +130,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2023 18:40:16 UTC
+ Last Updated on 29/07/2023 18:38:43 UTC
 <!--END_SECTION:waka-->
