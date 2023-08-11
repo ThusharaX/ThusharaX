@@ -61,7 +61,7 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C074%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C076%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
@@ -104,17 +104,16 @@ Sunday                   1752 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               22 hrs 7 mins       ████████████████████████░   97.86 % 
-TypeScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JavaScript               23 hrs 11 mins      █████████████████████████   98.95 % 
+TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,5 +129,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2023 18:38:36 UTC
+ Last Updated on 11/08/2023 18:39:05 UTC
 <!--END_SECTION:waka-->
