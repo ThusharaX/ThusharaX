@@ -61,15 +61,13 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 486.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,275 Contributions in the Year 2023
+> 🏆 1,309 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -77,42 +75,6 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
  > 
 > 🔑 69 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5167 commits        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-🌆 Daytime                8751 commits        ██████████░░░░░░░░░░░░░░░   40.87 % 
-🌃 Evening                5385 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-🌙 Night                  2111 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4968 commits        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Tuesday                  3019 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                2478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Thursday                 3623 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Friday                   2882 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Saturday                 2137 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Sunday                   2307 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -126,5 +88,5 @@ C#                       3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:49:24 UTC
+ Last Updated on 06/12/2023 18:49:36 UTC
 <!--END_SECTION:waka-->
