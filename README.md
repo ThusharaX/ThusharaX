@@ -61,13 +61,15 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.5%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%201%20min-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 486.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,309 Contributions in the Year 2023
+> 🏆 1,312 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -75,6 +77,42 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
  > 
 > 🔑 69 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5240 commits        ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+🌆 Daytime                8811 commits        ██████████░░░░░░░░░░░░░░░   40.88 % 
+🌃 Evening                5389 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌙 Night                  2114 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   4978 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Tuesday                  3034 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Wednesday                2561 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Thursday                 3629 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Friday                   2885 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Saturday                 2143 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Sunday                   2324 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,5 +126,5 @@ C#                       3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 18:49:36 UTC
+ Last Updated on 07/12/2023 18:48:39 UTC
 <!--END_SECTION:waka-->
