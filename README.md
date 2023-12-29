@@ -17,6 +17,11 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 <!-- - 🧭 Founder at [@Nano-Spark](https://github.com/Nano-Spark) -->
 - 🧭 Founder at [@BinaryMatter](https://github.com/BinaryMatter)
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <!-- - 👥 Core team member at [@Binary-Matter](https://github.com/Binary-Matter) and [@SLIIT-2020-June](https://github.com/SLIIT-2020-June) -->
 
 ## Skills and Experience
