@@ -20,6 +20,8 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to use Git and GitHub for group projects sinhala | Thushara Thiwanka](https://ytcards.demolab.com/?id=9j0AOrO0dnw&title=How+to+use+Git+and+GitHub+for+group+projects+sinhala+%7C+Thushara+Thiwanka&lang=en&timestamp=1646927323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to use Git and GitHub for group projects sinhala | Thushara Thiwanka")](https://www.youtube.com/watch?v=9j0AOrO0dnw)
+[![How to create GitHub account sinhala | Thushara Thiwanka](https://ytcards.demolab.com/?id=1sMUjtNs7F8&title=How+to+create+GitHub+account+sinhala+%7C+Thushara+Thiwanka&lang=en&timestamp=1642509500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to create GitHub account sinhala | Thushara Thiwanka")](https://www.youtube.com/watch?v=1sMUjtNs7F8)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- - 👥 Core team member at [@Binary-Matter](https://github.com/Binary-Matter) and [@SLIIT-2020-June](https://github.com/SLIIT-2020-June) -->
