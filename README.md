@@ -69,8 +69,6 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -83,42 +81,6 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
  > 
 > 🔑 78 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4575 commits        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌆 Daytime                7470 commits        █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌃 Evening                5883 commits        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-🌙 Night                  2344 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3711 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Tuesday                  3179 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Wednesday                2432 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 3024 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Friday                   3065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Saturday                 2397 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Sunday                   2464 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -132,5 +94,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 19:08:26 UTC
+ Last Updated on 11/04/2024 18:45:10 UTC
 <!--END_SECTION:waka-->
