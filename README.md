@@ -69,6 +69,8 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 - [LuciferX#8759](./) on Discord
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%201%20min-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -130,5 +132,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 23:08:00 UTC
+ Last Updated on 15/04/2024 18:46:27 UTC
 <!--END_SECTION:waka-->
