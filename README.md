@@ -77,6 +77,8 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 
 > 📦 513.0 kB Used in GitHub's Storage 
  > 
+> 🏆 181 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 66 Public Repositories 
@@ -132,5 +134,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2024 18:45:54 UTC
+ Last Updated on 27/05/2024 18:46:43 UTC
 <!--END_SECTION:waka-->
