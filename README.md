@@ -15,15 +15,7 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 ![GitHub User's stars](https://img.shields.io/github/stars/ThusharaX?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
 <!-- - 🧭 Founder at [@Nano-Spark](https://github.com/Nano-Spark) -->
-- 🧭 Founder at [@BinaryMatter](https://github.com/BinaryMatter)
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![How to install multiple node js versions in windows sinhala | Thushara Thiwanka](https://ytcards.demolab.com/?id=PUrr_AGW3Z4&title=How+to+install+multiple+node+js+versions+in+windows+sinhala+%7C+Thushara+Thiwanka&lang=en&timestamp=1704285010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to install multiple node js versions in windows sinhala | Thushara Thiwanka")](https://www.youtube.com/watch?v=PUrr_AGW3Z4)
-[![How to use Git and GitHub for group projects sinhala | Thushara Thiwanka](https://ytcards.demolab.com/?id=9j0AOrO0dnw&title=How+to+use+Git+and+GitHub+for+group+projects+sinhala+%7C+Thushara+Thiwanka&lang=en&timestamp=1646927323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to use Git and GitHub for group projects sinhala | Thushara Thiwanka")](https://www.youtube.com/watch?v=9j0AOrO0dnw)
-[![How to create GitHub account sinhala | Thushara Thiwanka](https://ytcards.demolab.com/?id=1sMUjtNs7F8&title=How+to+create+GitHub+account+sinhala+%7C+Thushara+Thiwanka&lang=en&timestamp=1642509500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to create GitHub account sinhala | Thushara Thiwanka")](https://www.youtube.com/watch?v=1sMUjtNs7F8)
-<!-- END YOUTUBE-CARDS -->
+<!-- - 🧭 Founder at [@BinaryMatter](https://github.com/BinaryMatter) -->
 
 <!-- - 👥 Core team member at [@Binary-Matter](https://github.com/Binary-Matter) and [@SLIIT-2020-June](https://github.com/SLIIT-2020-June) -->
 
@@ -67,6 +59,14 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 - [@Thushara_X](https://twitter.com/Thushara_X/) on Twitter
 - [@thushara_thiwanka](https://www.instagram.com/thushara_thiwanka/) on Instagram
 - [LuciferX#8759](./) on Discord
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![How to install multiple node js versions in windows sinhala | Thushara Thiwanka](https://ytcards.demolab.com/?id=PUrr_AGW3Z4&title=How+to+install+multiple+node+js+versions+in+windows+sinhala+%7C+Thushara+Thiwanka&lang=en&timestamp=1704285010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to install multiple node js versions in windows sinhala | Thushara Thiwanka")](https://www.youtube.com/watch?v=PUrr_AGW3Z4)
+[![How to use Git and GitHub for group projects sinhala | Thushara Thiwanka](https://ytcards.demolab.com/?id=9j0AOrO0dnw&title=How+to+use+Git+and+GitHub+for+group+projects+sinhala+%7C+Thushara+Thiwanka&lang=en&timestamp=1646927323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to use Git and GitHub for group projects sinhala | Thushara Thiwanka")](https://www.youtube.com/watch?v=9j0AOrO0dnw)
+[![How to create GitHub account sinhala | Thushara Thiwanka](https://ytcards.demolab.com/?id=1sMUjtNs7F8&title=How+to+create+GitHub+account+sinhala+%7C+Thushara+Thiwanka&lang=en&timestamp=1642509500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to create GitHub account sinhala | Thushara Thiwanka")](https://www.youtube.com/watch?v=1sMUjtNs7F8)
+<!-- END YOUTUBE-CARDS -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%201%20min-blue)
