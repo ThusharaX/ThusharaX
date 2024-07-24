@@ -69,13 +69,11 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 <!-- END YOUTUBE-CARDS -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 544.4 kB Used in GitHub's Storage 
+> 📦 544.5 kB Used in GitHub's Storage 
  > 
 > 🏆 343 Contributions in the Year 2024
  > 
@@ -85,42 +83,6 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
  > 
 > 🔑 85 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4489 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-🌆 Daytime                7087 commits        █████████░░░░░░░░░░░░░░░░   35.94 % 
-🌃 Evening                5897 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌙 Night                  2248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Tuesday                  2980 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Wednesday                2213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Thursday                 2619 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Friday                   3075 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 2369 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Sunday                   2423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -134,5 +96,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2024 18:49:10 UTC
+ Last Updated on 24/07/2024 18:55:17 UTC
 <!--END_SECTION:waka-->
