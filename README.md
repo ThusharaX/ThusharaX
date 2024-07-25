@@ -69,13 +69,15 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
 <!-- END YOUTUBE-CARDS -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%201%20min-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 544.5 kB Used in GitHub's Storage 
  > 
-> 🏆 343 Contributions in the Year 2024
+> 🏆 352 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -83,6 +85,42 @@ I'm <strong>Thushara Thiwanka</strong>, Software Engineering Undergraduate from 
  > 
 > 🔑 85 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4491 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+🌆 Daytime                7089 commits        █████████░░░░░░░░░░░░░░░░   35.92 % 
+🌃 Evening                5899 commits        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+🌙 Night                  2254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   4042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Tuesday                  2982 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Wednesday                2213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Thursday                 2629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Friday                   3075 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Saturday                 2369 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Sunday                   2423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -96,5 +134,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 18:55:17 UTC
+ Last Updated on 25/07/2024 18:48:32 UTC
 <!--END_SECTION:waka-->
